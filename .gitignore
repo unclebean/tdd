@@ -1,0 +1,8 @@
+gradlew
+gradlew.bat
+*.iml
+.idea
+gradle
+build
+.gradle
+.DS_Store
