@@ -106,6 +106,7 @@ public class TicTacToeSpec {
         ticTacToe.play(3, 3);
         String actual = ticTacToe.play(3, 2);
         assertEquals("The result is draw", actual);
+        System.out.println(">>>");
     }
 
 }
